@@ -1,2 +1,12 @@
-# weather_web_app
-Developed a responsive weather web application with city search and location auto-detect features. Integrated real-time weather data, including temperature, humidity, and wind speed, and implemented a 7-day forecast with Chart.js for visual representation.
+# weather-web-app
+simple web application to check the current weather state
+
+## API KEY
+
+To make sure the web app works properly you should use your own API KEY in the script.js file. <br>
+This web app is using the `openweathermap` API.
+
+`js/script`
+
+`apiKey="YOUR_API_KEY_HERE"`
+
